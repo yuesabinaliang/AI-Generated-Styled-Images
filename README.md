@@ -13,12 +13,16 @@
   
     Content Image
     
-    <img src="data/Alma%20Mater.jpg" width="500" height="400" />
-    <img src="data/Columbia.jpg" width="500" height="400" />
+    <img src="data/Alma%20Mater.jpg" width="450" height="4500" />
+    <img src="data/Columbia.jpg" width="450" height="450" />
+    
     Style Image
-    <img src="data/Simpson.jpg" width="500" height="400" />
-    <img src="data/Pollock.jpg" width="500" height="400" />
+    
+    <img src="data/Simpson.jpg" width="450" height="450" />
+    <img src="data/Pollock.jpg" width="450" height="450" />
+    
     Combined Styled Image
-    ![Combined Styled Image](figs/combined_generated_images.jpeg)
+    
+    <img src="data/combined_generated_images.jpg" width="900" height="900" />
     
 
