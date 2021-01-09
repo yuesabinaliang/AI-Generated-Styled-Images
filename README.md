@@ -13,7 +13,7 @@
   
     Content Image
     
-    <img src="data/Alma%20Mater.jpg" width="450" height="4500" />
+    <img src="data/Alma%20Mater.jpg" width="450" height="450" />
     <img src="data/Columbia.jpg" width="450" height="450" />
     
     Style Image
