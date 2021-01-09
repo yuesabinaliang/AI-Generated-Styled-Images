@@ -23,6 +23,6 @@
     
     Combined Styled Image
     
-    <img src="data/combined_generated_images.jpeg" width="700" height="700" />
+    <img src="figs/combined_generated_images.jpeg" width="700" height="700" />
     
 
